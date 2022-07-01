@@ -1,6 +1,6 @@
 ---
-description: Welcome to  Project AxoSwap.io 's development documentary
-cover: .gitbook/assets/bg1.png
+description: Welcome to  AxoSwap Project's document page.
+cover: .gitbook/assets/horizontal.jpg
 coverY: 0
 ---
 
