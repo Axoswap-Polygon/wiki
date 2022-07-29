@@ -1,10 +1,8 @@
 ---
-description: Welcome to  AxoSwap Project's document page.
-cover: .gitbook/assets/horizontal.jpg
-coverY: 0
+description: Welcome to AxoSwap's document page.
 ---
 
-# 👩🏫 Introduction
+# Introduction
 
 ### Core definition
 
@@ -14,7 +12,7 @@ axoswap.io is, in essence:
 * [A yield instrument.](overall-documentation/xolotl.md)
 * [An AMM framework and staking derivatives.](overall-documentation/liquid-and-liquid-pool.md)
 
-Our goal for development was to address the Cryptomarket's "yield dilution". We designed a system which, whilst retaining decentralization, allows the collective sum to translate into a single, universally beneficial asset.&#x20;
+Our goal for development was to address the Cryptomarket's "yield dilution". We designed a system which, whilst retaining decentralization, allows the collective sum to translate into a single, universally beneficial asset.
 
 ### Post-launch development
 
@@ -24,4 +22,3 @@ Confirmed project developments:
 * NFT Platform.
 * Pool incentives from partnering projects and foundation.
 * Secret Project.
-
